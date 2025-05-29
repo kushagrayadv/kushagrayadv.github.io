@@ -2,13 +2,17 @@
 
 - type: github
   icon: "fab fa-github"
-  url: 'https://github.com/Billa-Man'
+  url: 'https://github.com/kushagrayadv'
 
 - type: email
   icon: "fas fa-envelope"
-  url: 'mailto:sohith.bandari@gmail.com'
+  url: 'mailto:kushagra.yadav@nyu.edu'
 
 - type: linkedin
-  icon: 'fab fa-linkedin'                                 # icons powered by <https://fontawesome.com/>
-  url:  'https://www.linkedin.com/in/sohithbandari/'      # Fill with your Linkedin homepage
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/kushagrayadv'
+
+- type: google-scholar
+  icon: 'fas fa-graduation-cap'
+  url: 'https://scholar.google.com/citations?user=a12VlQoAAAAJ'  # Replace YOUR_SCHOLAR_ID with your actual Google Scholar ID
 

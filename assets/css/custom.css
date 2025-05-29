@@ -56,3 +56,8 @@
 .project-card a:hover {
   text-decoration: underline; /* Underline links on hover */
 }
+
+#sidebar .site-title {
+  font-size: 1.7rem;  /* Adjust this value to make the title larger or smaller */
+  font-weight: bold;
+}
