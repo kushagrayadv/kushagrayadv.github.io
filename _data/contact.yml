@@ -6,7 +6,7 @@
 
 - type: email
   icon: "fas fa-envelope"
-  url: 'mailto:kushagra.yadav@nyu.edu'
+  noblank: true
 
 - type: linkedin
   icon: 'fab fa-linkedin'
