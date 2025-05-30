@@ -4,11 +4,25 @@
   align-items: center; /* Vertically center content */
   justify-content: space-between; /* Space between text and image */
   /* padding: 20px; Add some padding inside the card */
-  background-color: #1e1e1e; /* Set background color */
   border-radius: 10px; /* Optional: Rounded corners */
   margin-bottom: 20px; /* Space between cards */
   padding-left: 30px;
   padding-right: 30px;
+  border: 1px solid var(--main-border-color);
+  box-shadow: var(--card-shadow);
+  transition: all 0.3s ease;
+}
+
+/* Styles when in dark mode - use light colors for contrast */
+html[data-mode="dark"] .project-card {
+  background-color: var(--card-bg);
+  color: var(--text-color);
+}
+
+/* Styles when in light mode - use dark colors for contrast */
+html[data-mode="light"] .project-card {
+  background-color: var(--card-bg);
+  color: var(--text-color);
 }
 
 /* Ensure text content takes up space */
@@ -40,13 +54,13 @@
 .project-card h3 {
   font-size: 1.5em;
   margin-bottom: 10px;
-  color: #fff; /* Set text color for titles */
+  color: var(--heading-color);
 }
 
 .project-card p {
   font-size: 1em;
-  color: #eee; /* Set color for descriptions */
   margin-bottom: 0.25rem;
+  color: var(--text-muted-color);
 }
 
 .project-card p:last-child {
@@ -54,12 +68,14 @@
 }
 
 .project-card a {
-  color: #4CAF50; /* Color for links (e.g., "View Project") */
   text-decoration: none;
+  transition: color 0.3s ease;
+  color: var(--link-color);
 }
 
 .project-card a:hover {
   text-decoration: underline; /* Underline links on hover */
+  opacity: 0.8;
 }
 
 #sidebar .site-title {
