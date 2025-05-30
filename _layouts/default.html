@@ -64,5 +64,16 @@ layout: compress
     {% include_cached search-loader.html lang=lang %}
 
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' }}">
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const toggleButton = document.getElementById('mode-toggle');
+        if (toggleButton) {
+          toggleButton.addEventListener('click', function() {
+            Theme.flip();
+          });
+        }
+      });
+    </script>
   </body>
 </html>
