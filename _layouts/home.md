@@ -2,22 +2,40 @@
 layout: page
 ---
 
-<h1>🙋‍♂️ Hi there, I'm Sohith Bandari!</h1>
-<p>I'm diving into research at NYU where I tinker with large language models (LLMs) and computer vision. Hoping to amp up how AI's chat and interact, I'm all about using deep learning to make these tech buddies better at conversation and interaction.</p>
+<h1>🙋🏻‍♂️ Hi, I'm Kushagra Yadav!</h1>
+<p>I'm a Computer Science grad student at NYU with 3+ years of research and industry experience in AI and software development. My work focuses on multimodal learning, exploring the intersection of diffusion models, LLMs, and CNNs.</p>
 
-<h2>💫 About Me</h2>
+<h2>🧠 About Me</h2>
 <ul>
-  <li>You can find me as <strong>"billa-man"</strong> across various platforms. </li>
-  <li>I'm currently exploring the latest advancements in multi-modal AI models and applications.</li>
-  <li>I'm eager to collaborate on open-source LLM & LVM projects.</li>
-  <li>You can reach me at <a href="mailto:sohith.bandari@gmail.com">sohith.bandari@gmail.com</a>.</li>
+  <li>Passionate about creating scalable AI systems that bridge research and real-world deployment.</li>
+  <li>Currently a Research Assistant at NYU Video Lab, working on:
+    <ul>
+      <li>Neural Decoding, Vision-language modeling, and multimodal AI research.</li>
+    </ul>
+  </li>
+  <li>Former Software Engineer at Pocketpills, where I:
+    <ul>
+      <li>Built and deployed ML pipelines</li>
+      <li>Developed production systems for customer support, sentiment analysis, and prescription digitization.</li>
+      <li>Led full-stack development with Angular, Node.js, and Strapi—boosting traffic and user engagement.</li>
+    </ul>
+  </li>
 </ul>
 
-<h2>🤖 Some of my Key Projects</h2>
+<h2>💼 What I Do</h2>
 <ul>
-  <li><a href="https://github.com/Billa-Man/git-issue-bot">Git Issue Bot</a>: A chatbot that searchs for relevant issues and repositories for the user.</li>
-  <li><a href="https://github.com/Billa-Man/prompt2program">Prompt2Program</a>: An end-to-end RAG system for C++ code generation.</li>
-  <li><a href="https://www.kaggle.com/code/sohithbandari/llama-3-2-3b-llm-prompt-recovery">LLM Prompt Recovery</a>: Recover the LLM prompt that was used to transform a given text.</li>
+  <li>
+    <strong>🔬 Research:</strong>
+    Brain decoding with fMRI + CLIP/Stable Diffusion, scene reconstruction, and multimodal learning (NYU Video Lab).
+  </li>
+  <li>
+    <strong>🚀 Engineering:</strong>
+    Built and deployed ML pipelines with AWS, Hugging Face, LangChain, and OCR tools to improve healthcare operations (Pocketpills).
+  </li>
+  <li>
+    <strong>📚 Projects:</strong>
+    Robotics RAG system, multimodal sentiment analysis, image recognition under noise, and firearm detection via ResNet.
+  </li>
 </ul>
 
 <h2> 💻 Languages and Tools: </h2>

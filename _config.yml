@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Kushagra Yadav # the main title
 
-tagline: RA @ NYU | MSCS @ NYU | Ex-Pocketpills | DTU' 21  # it will display as the subtitle
+tagline: RA @ NYU | MSCS @ NYU | Building Practical AI Solutions from Research to Deployment  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
 
@@ -87,7 +87,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
