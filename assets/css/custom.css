@@ -11,16 +11,6 @@
   border: 1px solid var(--main-border-color);
   box-shadow: var(--card-shadow);
   transition: all 0.3s ease;
-}
-
-/* Styles when in dark mode - use light colors for contrast */
-html[data-mode="dark"] .project-card {
-  background-color: var(--card-bg);
-  color: var(--text-color);
-}
-
-/* Styles when in light mode - use dark colors for contrast */
-html[data-mode="light"] .project-card {
   background-color: var(--card-bg);
   color: var(--text-color);
 }
@@ -55,6 +45,7 @@ html[data-mode="light"] .project-card {
   font-size: 1.5em;
   margin-bottom: 10px;
   color: var(--heading-color);
+  margin-top: 20px;
 }
 
 .project-card p {

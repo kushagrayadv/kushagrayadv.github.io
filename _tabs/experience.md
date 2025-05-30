@@ -5,13 +5,14 @@ order: 4
 
 <div class="project-card">
   <div class="project-card-content">
-    <h3>Reliance Jio Infocomm Ltd.</h3>
-    <p><strong>Graduate Trainee Engineer</strong> - [June 2023 - July 2023]</p>
+    <h3>NYU Video Lab, New York Univerity</h3>
+    <p><strong>Research Assistant</strong> - [Jan 2025 - Present]</p>
     <ul>
-      <li>Implemented an end-to-end Computer Vision model to detect empty spaces in data center racks using YOLOv8m. The dataset was derived from images on the Internet & labelled manually, then preprocessed & augmented for better results.</li>
-      <li>Testing the model yielded a score of mAP50: 0.517 and mAP50-95: 0.312.</li>
-      <li>Tested multiple models for the team on Gradio which returned satisfactory results. This model will be assessed on real-world data and deployed on a production scale.</li>
+      <li>Advised by Dr. Yao Wang</li>
+      <li>Conducting research on methods to reconstruct and retrieve image scenes from brain fMRI signals using stable diffusion, CLIP, and ViT models</li>
+      <li>Achieved 93.48% average accuracy on seen subjects from the NSD dataset</li>
+      <li>Submitted paper to IEEE EMBS Conference on Neural Engineering (NER) 2025</li>
     </ul>
   </div>
-  <img src="assets/jio.png" alt="jio" class="project-card-img" />
+  <img src="assets/experience/nyu.png" alt="NYU" class="project-card-img" />
 </div>
