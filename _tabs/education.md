@@ -8,18 +8,19 @@ order: 5
       <h3>New York University</h3>
       <p><b>Master of Science in Computer Science</b> - [Sept 2024 - May 2026]</p>
       <p><b>CGPA:</b> 4.0/4.0</p>
-      <p><b>Relevant Coursework:</b> Design & Analysis of Algorithms, Machine Learning, Artificial Intelligence, Deep Learning</p>
+      <p><b>Relevant Coursework:</b> Design & Analysis of Algorithms, Machine Learning, Artificial Intelligence, Deep Learning, Big Data, Computer Vision</p>
   </div>
   <img src="/assets/education/nyu_tandon.jpg" alt="nyu-tandon" class="project-card-img" />
 </div>
 
 <div class="project-card">
   <div class="project-card-content">
-      <h3>Indian Institute of Technology (Indian School of Mines), Dhanbad</h3>
-      <p><strong>Bachelor of Technology in Electronics & Communication Engineering</strong> - [Dec 2020 - May 2024]</p>
-      <p><b>Relevant Coursework:</b> Machine Learning, Deep Learning, Principles of Artificial Intelligence, Probability & Statistics, Data Mining, Pattern Recognition, Digital Image Processing</p>
+      <h3>Delhi Technological University</h3>
+      <p><strong>Bachelor of Technology in Computer Engineering</strong> - [Aug 2017 - May 2021]</p>
+      <p><b>CGPA:</b> 3.87/4.0</p>
+      <p><b>Relevant Coursework:</b> Machine Learning, Artificial Intelligence, Data Structures , Analysis and Design of Algorithms, Discrete Mathematics, Operating Systems, Database Management Systems, Object Oriented Programming</p>
   </div>
-  <img src="/assets/education/iitism.jpg" alt="iit-ism" class="project-card-img" />
+  <img src="/assets/education/dtu.png" alt="dtu" class="project-card-img" />
 </div>
 
 
