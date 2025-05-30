@@ -46,6 +46,11 @@
 .project-card p {
   font-size: 1em;
   color: #eee; /* Set color for descriptions */
+  margin-bottom: 0.25rem;
+}
+
+.project-card p:last-child {
+  margin-bottom: 1rem;
 }
 
 .project-card a {

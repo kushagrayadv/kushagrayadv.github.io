@@ -6,7 +6,8 @@ order: 5
 <div class="project-card">
   <div class="project-card-content">
       <h3>New York University</h3>
-      <p><strong>Master of Science in Computer Science</strong> - [Sept 2024 - May 2026]</p>
+      <p><b>Master of Science in Computer Science</b> - [Sept 2024 - May 2026]</p>
+      <p><b>CGPA:</b> 4.0/4.0</p>
       <p><b>Relevant Coursework:</b> Design & Analysis of Algorithms, Machine Learning, Artificial Intelligence, Deep Learning</p>
   </div>
   <img src="/assets/education/nyu_tandon.jpg" alt="nyu-tandon" class="project-card-img" />
