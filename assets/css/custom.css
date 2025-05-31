@@ -76,3 +76,11 @@
   font-size: 1.7rem;  /* Adjust this value to make the title larger or smaller */
   font-weight: bold;
 }
+
+.list-skills img {
+  margin-left: 8px;
+}
+
+.list-skills li {
+  margin-bottom: 10px;
+}

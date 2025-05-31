@@ -11,7 +11,7 @@ title: "LLM Projects"
         <li>Developed an ROS2 robotics-specific RAG system, using PyTorch, involving data ingestion and engineering, LLMs fine-tuning, and prompt engineering to deliver a high-performing agent navigation solution.</li>
         <li>Created an ETL pipeline using ClearML to ingest media sources and store data in MongoDB, implemented featurization with vector DB Qdrant, and fine-tuned LLaMA-3.2-3B model using LoRA, achieving 81.67% accuracy and 68% style score</li>
         <li>Designed query expansion and cross-encoder-based inference using LangChain and hugging face transformers</li>
-        <li>Deployed a Gradio-based application with Huggingface Hub and Ollama integration for code generation instructions. Utilized Open WebUI for an enhanced user interface and improved interaction with the LLM model.</li>
+        <li>Deployed a Gradio-based application with Huggingface Hub and Ollama integration for code generation instructions</li>
       </ul>
       <p><a href="https://github.com/kushagrayadv/ai-rag-system">View Project</a></p>
   </div>
