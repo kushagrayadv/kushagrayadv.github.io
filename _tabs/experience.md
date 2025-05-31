@@ -15,7 +15,7 @@ order: 4
       <li>Submitted paper to IEEE EMBS Conference on Neural Engineering (NER) 2025</li>
     </ul>
   </div>
-  <img src="assets/experience/nyu.png" alt="NYU" class="project-card-img" />
+  <img src="/assets/experience/nyu.png" alt="NYU" class="project-card-img" />
 </div>
 
 <div class="project-card">
@@ -34,7 +34,7 @@ order: 4
       <li>Created a central caching system with node.js to replace the 3rd-party libraries in the system & enhanced the company’s web application's overall performance, raising the overall “GTmetrix” grade from E (~40%) to B (~85%)</li>
     </ul>
   </div>
-  <img src="assets/experience/pp_logo.webp" alt="Pocketpills" class="project-card-img" />
+  <img src="/assets/experience/pp_logo.webp" alt="Pocketpills" class="project-card-img" />
 </div>
 
 <div class="project-card">
@@ -47,7 +47,7 @@ order: 4
       <li>Employed the Angular framework for crafting the frontend of dynamic pages, utilized Java for backend development, and harnessed the concept of internal linking to contribute to SEO enhancement actively</li>
     </ul>
   </div>
-  <img src="assets/experience/pp_logo.webp" alt="Pocketpills" class="project-card-img" />
+  <img src="/assets/experience/pp_logo.webp" alt="Pocketpills" class="project-card-img" />
 </div>
 
 <div class="project-card">
@@ -60,5 +60,35 @@ order: 4
       <li>Employed Python to perform web scraping, collecting images from various wedding events, resulting in the creation of a labeled dataset comprising approximately 10k images, which was used to train the image classification model</li>
     </ul>
   </div>
-  <img src="assets/experience/midasblue.jpg" alt="NYU" class="project-card-img" />
+  <img src="/assets/experience/midasblue.jpg" alt="NYU" class="project-card-img" />
+</div>
+
+<div class="project-card">
+  <div class="project-card-content">
+    <h3>Machine Learning Research Lab, Delhi Technological University</h3>
+    <h5>New Delhi, India</h5>
+    <p><strong>Undergraduate Research Fellow</strong> - [May 2020 - April 2021]</p>
+    <ul>
+      <li>Advised by Dr. Anil Singh Parihar</li>
+      <li>Conducted research on successful strategies to mitigate the effect of noise in various visual recognition tasks</li>
+      <li>Developed an end-to-end neural network algorithm for effective object detection in noisy images, integrating denoising techniques with detection; achieved 80.1% accuracy using Python and TensorFlow</li>
+      <li>Published the findings in IEEE ICICCS 2021</li>
+    </ul>
+  </div>
+  <img src="/assets/education/dtu.png" alt="NYU" class="project-card-img" />
+</div>
+
+<div class="project-card">
+  <div class="project-card-content">
+    <h3>Robotics and Machine Intelligence Lab, Delhi Technological University</h3>
+    <h5>New Delhi, India</h5>
+    <p><strong>Undergraduate Research Fellow</strong> - [May 2020 - April 2021]</p>
+    <ul>
+      <li>Advised by Dr. N. S. Raghava</li>
+      <li>Investigated effective approaches for the impact of image recognition tasks on security applications</li>
+      <li>Designed a firearm classification model utilizing transfer learning with ResNet-34/50 architectures, achieving 95% accuracy using Python and PyTorch</li>
+      <li>Published the findings in IEEE INDICON 2020</li>
+    </ul>
+  </div>
+  <img src="/assets/education/dtu.png" alt="NYU" class="project-card-img" />
 </div>
