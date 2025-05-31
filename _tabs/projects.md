@@ -10,10 +10,10 @@ order: 1
 Explore projects by category:
 
 - [Large Language Models]({% link _pages/llm.md %})
-- [Natural Language Processing]({% link _pages/nlp.md %})
+- [Multimodal Learning]({% link _pages/multimodal.md %})
 - [Computer Vision]({% link _pages/cv.md %})
-- [Model Implementations]({% link _pages/implementations.md %})
-- [Data Science]({% link _pages/misc_proj.md %})
+- [Big Data]({% link _pages/big_data.md %})
+- [Full stack]({% link _pages/full_stack.md %})
 
 You can find detailed descriptions and documentation for each category of projects.
 
