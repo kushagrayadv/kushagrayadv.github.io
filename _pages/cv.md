@@ -13,7 +13,7 @@ title: "Computer Vision Projects"
         <li>Applied Single Shot Multibox Detector (SSD) to perform efficient object detection on denoised images.</li>
         <li>Achieved 81.6% mAP on the Pascal VOC dataset, significantly outperforming baseline SSD models under varying noise levels.</li>
       </ul>
-      <p><a href="https://github.com/kushagrayadv/ir-with-ssd">View Project</a></p>
+      <p><a href="https://github.com/kushagrayadv/ir-with-ssd" target="_blank" rel="noopener noreferrer">View Project</a></p>
   </div>
       <img src="/assets/projects/object-detection.jpg" alt="Object detection" class="project-card-img" />
 </div>
@@ -28,7 +28,7 @@ title: "Computer Vision Projects"
         <li>Achieved up to 95% classification accuracy using a dual-stage training strategy with adaptive learning rate selection.</li>
         <li>Integrated explainability using the GSInquire method to highlight critical regions driving classification decisions, improving transparency and interpretability.</li>
       </ul>
-    <p><a href="https://github.com/kushagrayadv/gun-dataset">View Project</a></p>
+    <p><a href="https://github.com/kushagrayadv/gun-dataset" target="_blank" rel="noopener noreferrer">View Project</a></p>
   </div>
   <img src="/assets/projects/weapon-detection.jpg" alt="weapon detection" class="project-card-img" />
 </div>

@@ -11,7 +11,7 @@ title: "Multimodal AI Projects"
         <li>Led a 3-person team to develop a sentiment analysis solution using Python and PyTorch, ensuring timely delivery by coordinating task assignments, fostering collaboration, and maintaining project alignment.</li>
         <li>Developed a model combining DeBERTa and ViT for feature extraction, leveraging cross-attention for feature fusion, and employing multi-loss training; achieving 70.38% accuracy on the MVSA-Single dataset.</li>
       </ul>
-      <p><a href="https://github.com/kushagrayadv/VLM-fusion-network">View Project</a></p>
+      <p><a href="https://github.com/kushagrayadv/VLM-fusion-network" target="_blank" rel="noopener noreferrer">View Project</a></p>
   </div>
   <img src="/assets/projects/vlm-fusion-net.png" alt="p2p" class="project-card-img" />
 </div>

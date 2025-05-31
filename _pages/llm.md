@@ -13,7 +13,7 @@ title: "LLM Projects"
         <li>Integrated a query-driven Q-Former to produce fixed-size latent vectors aligned with CLIP’s image embedding space.</li>
         <li>Achieved competitive performance with just 39M parameters, showing a 12x – 24x reduction in model size compared to prior work (MindEye1/2).</li>
       </ul>
-      <p><a href="https://github.com/kushagrayadv/voxel-former">View Project</a></p>
+      <p><a href="https://github.com/kushagrayadv/voxel-former" target="_blank" rel="noopener noreferrer">View Project</a></p>
   </div>
   <img src="/assets/projects/brain-decoding.jpg" alt="p2p" class="project-card-img" />
 </div>
@@ -28,7 +28,7 @@ title: "LLM Projects"
         <li>Designed query expansion and cross-encoder-based inference using LangChain and hugging face transformers</li>
         <li>Deployed a Gradio-based application with Huggingface Hub and Ollama integration for code generation instructions</li>
       </ul>
-      <p><a href="https://github.com/kushagrayadv/ai-rag-system">View Project</a></p>
+      <p><a href="https://github.com/kushagrayadv/ai-rag-system" target="_blank" rel="noopener noreferrer">View Project</a></p>
   </div>
   <img src="/assets/projects/p2p.png" alt="p2p" class="project-card-img" />
 </div>

@@ -13,7 +13,7 @@ title: "Big Data Projects"
         <li>Live inference service: background Kafka consumer with GPU model server delivers activity labels in under 200 ms end-to-end latency while buffering irregular samples and handling multiple devices concurrently.</li>
         <li>Interactive Streamlit dashboard displays real-time six-axis sensor plots and a dynamic activity badge with confidence score, providing instant feedback for fitness tracking or clinical monitoring.</li>
       </ul>
-      <p><a href="https://github.com/kushagrayadv/CSGY-6513-big-data-project">View Project</a></p>
+      <p><a href="https://github.com/kushagrayadv/CSGY-6513-big-data-project" target="_blank" rel="noopener noreferrer">View Project</a></p>
   </div>
   <img src="/assets/projects/activity-rec.jpg" alt="activity rec" class="project-card-img" />
 </div>
