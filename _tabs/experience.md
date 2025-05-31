@@ -34,7 +34,7 @@ order: 4
       <li>Created a central caching system with node.js to replace the 3rd-party libraries in the system & enhanced the company’s web application's overall performance, raising the overall “GTmetrix” grade from E (~40%) to B (~85%)</li>
     </ul>
   </div>
-  <img src="assets/experience/pp_logo.webp" alt="NYU" class="project-card-img" />
+  <img src="assets/experience/pp_logo.webp" alt="Pocketpills" class="project-card-img" />
 </div>
 
 <div class="project-card">
@@ -47,5 +47,18 @@ order: 4
       <li>Employed the Angular framework for crafting the frontend of dynamic pages, utilized Java for backend development, and harnessed the concept of internal linking to contribute to SEO enhancement actively</li>
     </ul>
   </div>
-  <img src="assets/experience/pp_logo.webp" alt="NYU" class="project-card-img" />
+  <img src="assets/experience/pp_logo.webp" alt="Pocketpills" class="project-card-img" />
+</div>
+
+<div class="project-card">
+  <div class="project-card-content">
+    <h3>MidasBlue</h3>
+    <h5>Pune, India</h5>
+    <p><strong>Machine Learning Engineer Intern</strong> - [June 2020 - Dec 2020]</p>
+    <ul>
+      <li>Developed an Event Photo Sorter using a deep learning image classification model and deployed on AWS Sagemaker while using transfer learning, flask, and Angular to classify and organize large volumes of photos into respective event categories</li>
+      <li>Employed Python to perform web scraping, collecting images from various wedding events, resulting in the creation of a labeled dataset comprising approximately 10k images, which was used to train the image classification model</li>
+    </ul>
+  </div>
+  <img src="assets/experience/midasblue.jpg" alt="NYU" class="project-card-img" />
 </div>
