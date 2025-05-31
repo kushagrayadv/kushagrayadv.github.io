@@ -48,6 +48,9 @@
   margin-top: 20px;
 }
 
+.project-card h5 {
+  color: var(--text-muted-color);
+}
 .project-card p {
   font-size: 1em;
   margin-bottom: 0.25rem;
