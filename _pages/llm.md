@@ -6,7 +6,7 @@ title: "LLM Projects"
 <div class="project-card">
   <div class="project-card-content">
     <h3>VoxelFormer: Parameter-Efficient Multi-Subject Visual Decoding from fMRI</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"><img src="https://img.shields.io/badge/wandb-FFBE00?style=flat&logo=weightsandbiases&logoColor=black" alt="HuggingFace"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="HuggingFace">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"><img src="https://img.shields.io/badge/wandb-FFBE00?style=flat&logo=weightsandbiases&logoColor=black" alt="WandB"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="HuggingFace">
       <ul>
         <li>Designed a lightweight transformer architecture for image reconstruction from fMRI, enabling multi-subject training without subject-specific layers.</li>
         <li>Developed Token Merging Transformer (ToMer) to compress voxel inputs dynamically, reducing memory usage while retaining essential features.</li>
