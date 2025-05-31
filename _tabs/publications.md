@@ -5,6 +5,15 @@ order: 6
 
 <div class="project-card">
   <div class="project-card-content">
+      <h3>International Conference on Neural Engineering (NER)</h3>
+      <p>VoxelFormer: Parameter-Efficient Multi-Subject Visual Decoding from fMRI</p>
+      <p><b>UNDER REVIEW</b></p>
+  </div>
+  <img src="/assets/publications/ner.png" alt="NER" class="project-card-img" />
+</div>
+
+<div class="project-card">
+  <div class="project-card-content">
       <h3>International Conference on Intelligent Computing and Control Systems (ICICCS)</h3>
       <p>K. Yadav, D. Mohan and A. S. Parihar, "Image Detection in Noisy Images," 2021 5th International Conference on Intelligent Computing and Control Systems (ICICCS), Madurai, India, 2021, pp. 917-923, doi: 10.1109/ICICCS51141.2021.9432243.</p>
       <p><a href="https://ieeexplore.ieee.org/document/9432243" target="_blank" rel="noopener noreferrer">View Publication</a></p>

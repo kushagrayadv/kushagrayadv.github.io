@@ -19,10 +19,12 @@ You can find detailed descriptions and documentation for each category of projec
 
 ### Some mini-projects:
 
-- [Autism Predictor](https://github.com/Billa-Man/Mini-Projects/tree/main/Autism%20Predictor)
-- [Face Mask Detection](https://github.com/Billa-Man/Mini-Projects/tree/main/Face%20Mask%20Detection)
-- [Heart Disease Predictor](https://github.com/Billa-Man/Mini-Projects/tree/main/Heart%20Disease%20Predictor)
-- [MNIST](https://github.com/Billa-Man/Mini-Projects/tree/main/MNIST)
+- [Real-time face detection](https://github.com/kushagrayadv/face-detection-with-OpenCV)
+- [GAN image creator](https://github.com/kushagrayadv/GAN-image-creation)
+- [Digit Recognizer using Keras](https://github.com/kushagrayadv/digit-recognizer-with-keras)
+- [MNIST Classification](https://github.com/kushagrayadv/mnist-classification)
+- [CIFAR Classification](https://github.com/kushagrayadv/CIFAR-Image-Classification)
+
 
 
 
