@@ -7,23 +7,22 @@ order: 1
 
 # Welcome to My Project Portfolio!
 
-Explore projects by category:
+I transform ideas into intelligent systems. Each category represents a different approach to solving complex problems:
 
-- [Large Language Models]({% link _pages/llm.md %})
-- [Multimodal Learning]({% link _pages/multimodal.md %})
-- [Computer Vision]({% link _pages/cv.md %})
-- [Big Data]({% link _pages/big-data.md %})
-- [Full stack]({% link _pages/full-stack.md %})
+- 🧠 [Large Language Models]({% link _pages/llm.md %}) - Teaching machines to understand and generate human language
+- 🔄 [Multimodal Learning]({% link _pages/multimodal.md %}) - Bridging the gap between different types of data
+- 👀 [Computer Vision]({% link _pages/cv.md %}) - Giving machines the ability to see and interpret the world
+- ⚡ [Big Data]({% link _pages/big-data.md %}) - Turning massive datasets into actionable insights
+- 🚀 [Full stack]({% link _pages/full-stack.md %}) -  Building complete solutions from concept to deployment
 
-You can find detailed descriptions and documentation for each category of projects.
+Each project includes source code, technical documentation, and demos.
 
-### Some mini-projects:
+### Featured Quick Builds:
 
-- [Real-time face detection](https://github.com/kushagrayadv/face-detection-with-OpenCV)
-- [GAN image creator](https://github.com/kushagrayadv/GAN-image-creation)
-- [Digit Recognizer using Keras](https://github.com/kushagrayadv/digit-recognizer-with-keras)
-- [MNIST Classification](https://github.com/kushagrayadv/mnist-classification)
-- [CIFAR Classification](https://github.com/kushagrayadv/CIFAR-Image-Classification)
+- Computer Vision Experiments [Real-time face detection](https://github.com/kushagrayadv/face-detection-with-OpenCV) \| [GAN image creator](https://github.com/kushagrayadv/GAN-image-creation) \| [Digit Recognizer using Keras](https://github.com/kushagrayadv/digit-recognizer-with-keras)
+- Classification Challenges [MNIST Classification](https://github.com/kushagrayadv/mnist-classification) \| [CIFAR Classification](https://github.com/kushagrayadv/CIFAR-Image-Classification)
+
+Each built to explore specific ML techniques and frameworks
 
 
 
