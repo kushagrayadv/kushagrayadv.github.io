@@ -10,7 +10,7 @@ layout: page
   <li>Passionate about creating scalable AI systems that bridge research and real-world deployment.</li>
   <li>Currently a Research Assistant at NYU Video Lab, working on:
     <ul>
-      <li>Neural Decoding, Vision-language modeling, and multimodal AI research.</li>
+      <li>Visual Speech Decoding, Neural Decoding, Vision-language modeling, and multimodal AI research.</li>
     </ul>
   </li>
   <li>Former Software Engineer at Pocketpills, where I:
@@ -26,7 +26,8 @@ layout: page
   <li>
     🔬 Research:
     <ul>
-      <li>Brain decoding with fMRI + CLIP/Stable Diffusion, scene reconstruction, and multimodal learning (NYU Video Lab).</li>
+      <li>First-of-its-kind visual speech decoding for ALS/stroke patients using LLMs, Mamba models, and multimodal fusion (NYU Video Lab).</li>
+      <li>Brain decoding with fMRI + CLIP/Stable Diffusion, scene reconstruction, and multimodal learning.</li>
     </ul>
     
   </li>
@@ -43,7 +44,7 @@ layout: page
 
 <p>Here are some of the technologies and tools I commonly use or have used during my experience and projects:</p>
 <ul class="list-skills">
-  <li>Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Javascript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></li>
+  <li>Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Javascript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></li>
   
   <li>Frameworks: <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white" alt="Angular"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/ClearML-14AA8C?style=flat&logo=c&logoColor=white" alt="ClearML"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elastic Search"> <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama"></li>
   
