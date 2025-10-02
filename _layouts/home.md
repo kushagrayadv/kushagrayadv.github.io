@@ -26,7 +26,7 @@ layout: page
   <li>
     🔬 Research:
     <ul>
-      <li>First-of-its-kind visual speech decoding for ALS/stroke patients using LLMs, Mamba models, and multimodal fusion (NYU Video Lab).</li>
+      <li>Audio-visual speech decoding for dysarthric patients using LLMs, Mamba models, and multimodal fusion (NYU Video Lab).</li>
       <li>Brain decoding with fMRI + CLIP/Stable Diffusion, scene reconstruction, and multimodal learning.</li>
     </ul>
     

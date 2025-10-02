@@ -6,8 +6,8 @@ order: 6
 <div class="project-card">
   <div class="project-card-content">
       <h3>International Conference on Neural Engineering (NER)</h3>
-      <p>VoxelFormer: Parameter-Efficient Multi-Subject Visual Decoding from fMRI</p>
-      <p><b>UNDER REVIEW</b></p>
+      <p>VLe, C., Zhao, Y., Emami, N., Yadav, K., Liu, X., Chen, X., & Wang, Y. (2025). VoxelFormer: Parameter-Efficient Multi-Subject Visual Decoding from fMRI. arXiv preprint arXiv:2509.09015.</p>
+      <p><a href="https://arxiv.org/abs/2509.09015" target="_blank" rel="noopener noreferrer">View Publication</a></p>
   </div>
   <img src="/assets/publications/ner.png" alt="NER" class="project-card-img" />
 </div>
