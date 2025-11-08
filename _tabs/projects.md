@@ -9,7 +9,7 @@ order: 1
 
 I transform ideas into intelligent systems. Each category represents a different approach to solving complex problems:
 
-- 🧠 [Large Language Models]({% link _pages/llm.md %}) - Teaching machines to understand and generate human language
+- 🧠 [LLMs/Agents]({% link _pages/llm.md %}) - Teaching machines to understand and generate human language
 - 🔄 [Multimodal Learning]({% link _pages/multimodal.md %}) - Bridging the gap between different types of data
 - 👀 [Computer Vision]({% link _pages/cv.md %}) - Giving machines the ability to see and interpret the world
 - ⚡ [Big Data]({% link _pages/big-data.md %}) - Turning massive datasets into actionable insights

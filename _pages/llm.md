@@ -32,3 +32,25 @@ title: "LLM Projects"
   </div>
   <img src="/assets/projects/p2p.png" alt="p2p" class="project-card-img" />
 </div>
+
+<div class="project-card">
+  <div class="project-card-content">
+    <h3>PRobot: Context-Aware PR Automation Agent</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/aiohttp-2C5F77?style=flat&logo=aiohttp&logoColor=white" alt="aiohttp">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" alt="Pydantic">
+    <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+    
+    <ul>
+      <li>Developed an MCP (Model Context Protocol) server that bridges GitHub Actions, Git repositories, and Slack to automate PR workflows, enabling AI assistants like Claude to analyze code changes and manage CI/CD pipelines</li>
+      <li>Created a comprehensive tool suite including automated PR analysis, template suggestion based on code changes, CI/CD status monitoring, and Slack notification formatting with markdown support</li>
+      <li>Designed a modular architecture with FastMCP exposing 6+ tools and 6+ prompt templates, enabling seamless integration with AI assistants for context-aware PR management and deployment summaries</li>
+    </ul>
+    
+    <p><a href="https://github.com/kushagrayadv/probot" target="_blank" rel="noopener noreferrer">View Project</a></p>
+  </div>
+  <img src="/assets/projects/probot.png" alt="PRobot" class="project-card-img" />
+</div>
