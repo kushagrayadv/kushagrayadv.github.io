@@ -25,11 +25,11 @@ order: 4
     <h5>Gurugram, India</h5>
     <p><strong>Software Engineer</strong> - [June 2021 - July 2024]</p>
     <ul>
-      <li>Developed and productionized a self-learning customer support chatbot using AWS SageMaker, LangChain and Hugging Face models, cutting average comms per order from 2.0 to 0.9 through support queries and real-time order management</li>
-      <li>Deployed a Hugging Face DistilBERT-based sentiment analysis pipeline on AWS SageMaker and Lambda, automating SQL data extraction and negative query alerts, improving operational efficiency by 30%</li>
-      <li>Engineered an OCR Based Prescription Digitization System that auto-extracted and digitized prescription documents, reducing AHT by 67.2% (5 to 1.64 mins per document) and eliminating the need for manual entry</li>
-      <li>Developed a blog page system using Angular for frontend and Node.js with the Strapi framework for the backend, achieving an average of 44.9k monthly clicks and 2.4M monthly impressions and resulting in a 14.47% increase in user acquisition</li>
-      <li>Enhanced user account pages (dashboard, profile, account), using Angular and custom state management system, to increase member retention by 9% and reduce inbound customer inquiries by 37.27%</li>
+      <li>Built a ML-powered personalized conversational system (SageMaker + Hugging Face) for support queries resolution, serving 10M+ interactions annually, and reducing average touches/order from 2.0 → 0.9</li>
+      <li>Engineered a personalized content ranking and recommendation system to improve content discovery, using user interaction and context, driving 2.4M impressions/month and a 14.5% acquisition lift through A/B-tested strategies</li>
+      <li>Built a real-time sentiment detection pipeline (DistilBERT + SageMaker + Lambda) to model user engagement signals and flag negative interactions, reducing churn risk and improving ops efficiency 30%</li>
+      <li>Developed a large-scale OCR and document understanding pipeline for prescription digitization, automating text extraction and validation at 100K+ documents/month and reducing AHT by 67%</li>
+      <li>Implemented user engagement modules (dashboard, profile, account) with React and custom state management, improving retention by 9% and reducing inbound inquiries by 37%</li>
       <li>Designed order creation flow for users, resulting in a 5.3% boost in order placement rates and a 4.1% MOM revenue increase</li>
       <li>Constructed, independently, the entire frontend for the company’s subsidiary business, a new Men’s health digital clinic, "Phil", enhanced the revenue by 3.6% by incorporating approximately 1000 orders per month</li>
       <li>Created a central caching system with node.js to replace the 3rd-party libraries in the system & enhanced the company’s web application's overall performance, raising the overall “GTmetrix” grade from E (~40%) to B (~85%)</li>
